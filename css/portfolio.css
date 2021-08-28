@@ -3,6 +3,9 @@
 }
 .jumbotron {
     color: green;
-    background-color: black
+    background-color: black;
     
+}
+.col-sm-4 {
+    background-color: teal;
 }
