@@ -1,11 +1,63 @@
-.row {
-    color:black;
+.header {
+    color:navy;
+    text-align: center;
 }
-.jumbotron {
-    color: green;
-    background-color: black;
-    
+h2 {
+    color: black;
 }
-.col-sm-4 {
-    background-color: teal;
+
+
+
+.box {
+    border:10px solid teal;
 }
+
+
+
+.me {
+    background-color:rgba(165, 42, 42, 0.459);
+}
+
+
+body {
+    background-color: burlywood;
+}
+
+
+/*nav bar*/
+.topnav {
+    background-color:rgba(171, 195, 65, 0.801);
+    overflow: hidden;
+  }
+  
+  /* nav bar style */
+  .topnav a {
+    float: left;
+    color:lightcoral;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+ 
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: black;
+  }
+
+
+  /*first image*/
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
