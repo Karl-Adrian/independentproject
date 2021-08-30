@@ -1,3 +1,4 @@
+/*first header*/
 .header {
     color:navy;
     text-align: center;
@@ -7,7 +8,7 @@ h2 {
 }
 
 
-
+/*Box at bottom of page*/
 .box {
     border:10px solid teal;
 }
